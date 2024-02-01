@@ -63,5 +63,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [TMDB API](https://developers.themoviedb.org/3)
 - [request module](https://www.npmjs.com/package/request)
-
-Feel free to customize the README file as per your requirements.
