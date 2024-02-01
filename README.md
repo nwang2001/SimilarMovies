@@ -13,13 +13,13 @@ Before running the application, make sure you have the following installed on yo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/nwang2001/SimilarMovies.git 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd movie-search-app
+   cd SimilarMovies/     
    ```
 
 3. Install the dependencies:
